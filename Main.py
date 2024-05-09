@@ -7,7 +7,7 @@ from Cliente import Cliente
 from Conta import Conta
 
 c1 = Cliente("Jão", "8888-8888")
-conta=Conta(c1.nome,4545,0)
+conta=Conta(c1.,4545,0)
 
 print(c1)
 print(c1.nome, " e ", c1.telefone)
