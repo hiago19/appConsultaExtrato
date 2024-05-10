@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/appLojaVirtual.iml" filepath="$PROJECT_DIR$/.idea/appLojaVirtual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/appVerificaSaldo.iml" filepath="$PROJECT_DIR$/.idea/appVerificaSaldo.iml" />
     </modules>
   </component>
 </project>
